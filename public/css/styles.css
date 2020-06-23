@@ -1,0 +1,159 @@
+body {
+  color: black;
+  padding-top: 100px;
+  font-family: 'Gill Sans';
+}
+
+h1 {
+  margin: 1em;
+}
+
+nav {
+
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 150vw;
+  background-color: forestgreen;
+  font-family: 'verdana';
+
+}
+
+#menu {
+  display: flex;
+  flex-direction: row;
+  justify-content: normal;
+
+}
+
+nav a{
+float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+#menu li {
+  display: block;
+
+}
+
+a:link, a:visited {
+    text-decoration: none;
+    color: green;
+    background-color: transparent;
+}
+a:hover, a:active {
+    text-decoration: none;
+    color: #aaa;
+}
+
+#frase li a {
+  font-family: Vivaldi;
+  font-size: x-large;
+}
+#menu li a {
+  padding: 0.5em 2em;
+  color: #ddd;
+  text-decoration: none;
+  font-family: 'Vivaldi';
+  font-size: x-large;
+}
+
+#menu li a:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+
+#cover {
+  max-width: 80%;
+  background-position: center;
+  background-size: cover;
+}
+
+#logo {
+  max-width: 80%;
+  background-position: center;
+  background-size: cover;
+  overflow-y: scroll;
+}
+
+#coveruva {
+  max-width: 120%;
+  background-position: initial;
+  overflow-y: scroll;
+  background-size: cover;
+
+}
+#coverolio {
+  max-width: 80%;
+  background-position: initial;
+  overflow-y: scroll;
+  background-size: cover;
+}
+
+
+
+#main-title {
+  font-family: 'Braggadocio';
+}
+
+h1 {
+  text-align: center;
+}
+
+#hamburgers {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+#hamburgers li {
+  display: block;
+  margin: 1em;
+}
+
+#hamburgers li article {
+  display: flex;
+  flex-direction: row;
+  align-items: self-start;
+  justify-content: stretch;
+  padding: 1em;
+  border: none;
+  background-position-x: 500px;
+}
+
+#hamburgers li article section {
+  margin: 1em;
+}
+
+#hamburgers picture {
+  width: 320px;
+  height: 200px;
+}
+
+#fotolio picture {
+  width: 800px;
+  height: 500px;
+}
+
+#hamburgers img {
+  width: 320px;
+  height: 200px;
+}
+
+.container {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.price {
+  font-weight: bold;
+}
+
+h2 {
+  margin-top: 0;
+}

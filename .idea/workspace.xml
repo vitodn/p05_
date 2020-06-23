@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fa12eec-4de4-4b76-b113-c127a9307aa4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <execution />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="PhpServers">
+    <servers>
+      <server host="127.0.0.1" id="3fc7dd5a-7272-4cc5-8f3d-9ad21f4f1d2f" name="Unnamed" />
+      <server deployment_server="7c399f75-43bb-48d9-8e8c-e5ad502cc8cf" host="localhost\Desktop\inventry" id="27b17a92-d1bf-454f-9965-3cc7e504045a" name="apachi" />
+      <server deployment_server="7c399f75-43bb-48d9-8e8c-e5ad502cc8cf" host="localhost\Desktop\inventry" id="4217cb80-4575-4fe0-8892-7b62998d6b18" name="apachi (1)" />
+      <server id="1592598d-50ee-46fa-9393-9547b6d0d290" name="Unnamed (1)" use_path_mappings="true" />
+    </servers>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP" />
+  <component name="ProjectId" id="1cqmp24rjYqtO7vT0jcZdDO5aNz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="h2" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/php-7.4.6/sapi/cgi/php-cgi.1.in" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Io\Desktop\p05_\public" />
+      <recent name="C:\Users\Io\Desktop\p05_" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Io\Desktop\p05_\public" />
+      <recent name="C:\Users\Io\Desktop\p05_" />
+      <recent name="C:\Users\Io\Desktop\p05_\public\css" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" nameIsGenerated="true" server_name="Unnamed" start_url="http://localhost:3000/invioform.php">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fa12eec-4de4-4b76-b113-c127a9307aa4" name="Default Changelist" comment="" />
+      <created>1590520455744</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590520455744</updated>
+      <workItem from="1591264686716" duration="7161000" />
+      <workItem from="1591554614171" duration="1684000" />
+      <workItem from="1591556430351" duration="430000" />
+      <workItem from="1591556888976" duration="2476000" />
+      <workItem from="1591618099501" duration="29629000" />
+      <workItem from="1591770969267" duration="1424000" />
+      <workItem from="1591863481969" duration="5476000" />
+      <workItem from="1591869032804" duration="6559000" />
+      <workItem from="1592208849134" duration="14988000" />
+      <workItem from="1592684404057" duration="8148000" />
+      <workItem from="1592811290945" duration="7349000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="19" key="#CLI_Interpreters" timestamp="1591868640090">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="19" key="#CLI_Interpreters/0.0.1366.728@0.0.1366.728" timestamp="1591868640090" />
+    <state x="412" y="25" key="#Deployment" timestamp="1591868954238">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="25" key="#Deployment/0.0.1366.728@0.0.1366.728" timestamp="1591868954238" />
+    <state x="309" y="42" key="#Inspections" timestamp="1591266379823">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="309" y="42" key="#Inspections/0.0.1366.728@0.0.1366.728" timestamp="1591266379823" />
+    <state x="390" y="7" key="#PHP" timestamp="1591864646331">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="7" key="#PHP/0.0.1366.728@0.0.1366.728" timestamp="1591864646331" />
+    <state x="265" y="9" key="#SSH_Configurations" timestamp="1591864639789">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="265" y="9" key="#SSH_Configurations/0.0.1366.728@0.0.1366.728" timestamp="1591864639789" />
+    <state x="400" y="22" key="#Servers" timestamp="1591866736945">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="400" y="22" key="#Servers/0.0.1366.728@0.0.1366.728" timestamp="1591866736945" />
+    <state x="274" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591869418466">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="274" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1591869418466" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591641684268">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591641684268" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1591868947586">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591868947586" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1591868640957">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1591868640957" />
+    <state x="649" y="237" width="439" height="259" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog" timestamp="1591867380639">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="649" y="237" width="439" height="259" key="com.jetbrains.plugins.webDeployment.ui.UploadBeforeRunTaskDialog/0.0.1366.728@0.0.1366.728" timestamp="1591867380639" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1592687197077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1592687197077" />
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup" timestamp="1591770891380">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="17" width="670" height="676" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1591770891380" />
+  </component>
+</project>
